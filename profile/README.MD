@@ -1,7 +1,7 @@
 <img src="./Images/profile.png" align="left" height="100" width="100">
 
 
-Hi there! My name is **Satin Cake** and I am a **software developer** and **entrepreneur** with a passion for using technology to **solve real-world problems**. I have been working in the tech industry for over 10 years, and during that time I have gained a wealth of experience in software development, project management, and leadership. 
+Hi there! My name is **Satin Cake** and I am a **software developer** and **entrepreneur** with a passion for using technology to **solve real-world problems**. I have been working in the tech industry for over 7 years, and during that time I have gained a wealth of experience in software development, project management, and leadership. 
 
 
 
