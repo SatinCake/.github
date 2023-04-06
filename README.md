@@ -18,7 +18,7 @@ I am the **CEO and Founder** of **Allure Void Studios, Inc**, a software develop
 - 📈 Constantly seeking to **learn and grow** as a developer & business owner
 - 🎨 Proficient in using **Adobe Products** such as Photoshop, Illustrator, InDesign, Lightroom, Premiere Pro, After Effects, Dreamweaver, Animate, Audition, XD, and Dimension
 - 🚀 Currently learning **TypeScript & Angular**
-- 📈 Expert in using **ClickUp** for project management
+- 📈 Expert in using **Jira** for project management
 - 💻 Expert in all **Google Workspace** tools
 - 🤝 Open to new **challenges and opportunities**
 
