@@ -81,7 +81,7 @@ In addition to my technical skills, I also have strong problem-solving and criti
 - 💬 Discord: SatinCake#0001
 - 📺 YouTube: [Satin Cake](https://www.youtube.com/@satincake) & [SatinCake's Music](https://www.youtube.com/channel/UCuXP4dcjaiiLbNWAanWWJEQ)
 - 🎥 TikTok: [@AllureVoidStudios](https://www.tiktok.com/@allurevoidstudios)
-- <img src="./Images/Contacts/twitter.png" height="15" width="20"> Twitter: [@CakeSatin](https://twitter.com/CakeSatin)
+- <img src="./Images/Contacts/twitter.png" height="15" width="20"> Twitter: [@CakeSatin](https://twitter.com/SatinCake)
 - 💬 Allure Void Studios Discord Server: [Join Here](https://studios.allurevoid.net/discord)
 
 ---
