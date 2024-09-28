@@ -28,8 +28,6 @@ I am the **CEO and Founder** of **Allure Void Studios, Inc**, a software develop
 
 I have a wide range of programming skills and am proficient in the following languages:
 
-<img src="./Images/Programming Languages/cobol.png" align="left" height="30" width="30"> **COBOL** (Expert Level)
-
 <img src="./Images/Programming Languages/python.png" align="left" height="30" width="30"> **Python** (Advanced Level)
 
 <img src="./Images/Programming Languages/java.png" align="left" height="30" width="30"> **Java** (Advanced Level)
@@ -77,12 +75,10 @@ In addition to my technical skills, I also have strong problem-solving and criti
 ---
 
 ## Contact Me
-- 📧 Email: kt.avs.studio@allurevoid.net
-- 💬 Discord: SatinCake#0001
+- 📧 Email: hello@satincake.com
+- 💬 Discord: @SatinCake
 - 📺 YouTube: [Satin Cake](https://www.youtube.com/@satincake) & [SatinCake's Music](https://www.youtube.com/channel/UCuXP4dcjaiiLbNWAanWWJEQ)
-- 🎥 TikTok: [@AllureVoidStudios](https://www.tiktok.com/@allurevoidstudios)
 - <img src="./Images/Contacts/twitter.png" height="15" width="20"> Twitter: [@SatinCake](https://twitter.com/SatinCake)
-- 💬 Allure Void Studios Discord Server: [Join Here](https://studios.allurevoid.net/discord)
 
 ---
 
