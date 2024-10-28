@@ -4,9 +4,6 @@
 Hi there! My name is **Satin Cake** and I am a **software developer** and **entrepreneur** with a passion for using technology to **solve real-world problems**. I have been working in the tech industry for over 7 years, and during that time I have gained a wealth of experience in software development, project management, and leadership. 
 
 
-
-I am the **CEO and Founder** of **Allure Void Studios, Inc**, a software development company that specializes in creating innovative and engaging applications for our clients. Our GitHub profile can be found [here](https://github.com/allure-void-studios) and our website can be found [here](https://studio.allurevoid.net/github).
-
 ---
 
 ## About Me
@@ -85,11 +82,5 @@ In addition to my technical skills, I also have strong problem-solving and criti
 > "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
 
 ---
-
-## Recent Projects
-
-- 🚀 Void Assistant: I led the development of a Discord bot for music streaming as part of Allure Void Studios. The bot, developed using Java and Python, allowed users to play songs, create playlists, and share music with friends using voice commands and text-to-speech (TTS) functionality. The speech recognition component of the bot was implemented using Python, while the main functionality was built using Java. I worked alongside [Jacobwasbeast](https://github.com/jacobwasbeast), a team member at Allure Void Studios, to implement additional features. Technologies used: Java, Python, and Discord API.
-
-- 📈 AVS Discord Management Bot: I developed a Discord management bot for Allure Void Studios using JavaScript and the Discord.JS library. The bot, built using Node.JS, allowed users to manage channels, assign roles, and automate tasks. I implemented features such as custom commands and integration with popular task management tools to make it easier for the team to collaborate and stay organized. Technologies used: JavaScript, Discord.JS, and Node.JS.
 
 ---
